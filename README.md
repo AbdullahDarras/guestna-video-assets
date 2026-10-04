@@ -1,6 +1,6 @@
 # guestna-video-assets
 
-مجلد الوسائط المشترك لـ[GuestNa Video Studio](https://github.com/AbdullahDarras/guestna-video-studio): لقطات، صور، موسيقى، تسجيلات صوت. (مستودع خاص).
+مجلد الوسائط المشترك لـ[GuestNa Video Studio](https://github.com/AbdullahDarras/guestna-video-studio): لقطات، صور، موسيقى، تسجيلات صوت. .
 
 ## كيف يُستخدم
 `npm run setup` في مستودع الاستوديو يسحب هذا المستودع تلقائياً إلى `../guestna-video-assets` ويربطه بـ`public/media`. للتحديث لاحقاً: `npm run assets:update`.
